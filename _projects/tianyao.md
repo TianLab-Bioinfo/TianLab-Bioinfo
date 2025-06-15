@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Tian Yao
-description: Students
+description: Ph.D. Student
 img: assets/img/yt.jpg
 importance: 2
 category: Students

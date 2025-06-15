@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Xuan Xue
-description: Students
+description: Master Student
 img: assets/img/xx.jpg
 importance: 3
 category: Students

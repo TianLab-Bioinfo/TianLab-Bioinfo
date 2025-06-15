@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yizhou Tang
-description: Students
+description: Master Student
 img: assets/img/tyz.jpg
 importance: 3
 category: Students

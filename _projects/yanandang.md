@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Yanan Dang
-description: Students
+description: Master Student
 img: assets/img/dyn.jpg
 importance: 3
 category: Students

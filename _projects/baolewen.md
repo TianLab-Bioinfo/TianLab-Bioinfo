@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Baole Wen
-description: Students
+description: Ph.D. Student
 img: assets/img/wbl.jpg
 importance: 2
 category: Students

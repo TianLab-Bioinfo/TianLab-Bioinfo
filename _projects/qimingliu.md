@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Qiming Liu
-description: Students
+description: Ph.D. Student
 img: assets/img/lqm.jpg
 importance: 2
 category: Students

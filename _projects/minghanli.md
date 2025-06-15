@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Minghan Li
-description: Students
+description: Ph.D. Student
 img: assets/img/lmh.jpg
 importance: 2
 category: Students

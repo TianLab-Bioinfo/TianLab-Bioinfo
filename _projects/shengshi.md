@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Sheng Shi
-description: Students
+description: Ph.D. Student
 img: assets/img/ss.jpg
 importance: 2
 category: Students
