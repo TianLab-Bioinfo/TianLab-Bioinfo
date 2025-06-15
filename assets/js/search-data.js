@@ -79,15 +79,15 @@ ninja.data = [{
               handler: () => {
                 window.location.href = "/blog/";
               },
-            },{id: "post-",
+            },{id: "post-phenodp-leveraging-deep-learning-for-phenotype-based-case-reporting-disease-ranking-and-symptom-recommendation",
         
-          title: "",
+          title: "PhenoDP: Leveraging Deep Learning for Phenotype-Based Case Reporting, Disease Ranking, and Symptom Recommendation...",
         
         description: "",
         section: "Posts",
         handler: () => {
           
-            window.location.href = "/blog/2025/2025-06-06-phenodp/";
+            window.location.href = "/blog/2025/phenodp/";
           
         },
       },{id: "post-association-of-human-specific-expanded-short-tandem-repeats-with-neuron-specific-regulatory-features",
