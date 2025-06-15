@@ -5,7 +5,7 @@ description: Ph.D. Student
 img: assets/img/wbl.jpg
 importance: 2
 category: Students
-related_publications: true
+related_publications: false
 ---
 
 

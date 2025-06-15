@@ -5,10 +5,8 @@ description: Ph.D. Student
 img: assets/img/lmh.jpg
 importance: 2
 category: Students
-related_publications: true
+related_publications: false
 ---
-
-
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">

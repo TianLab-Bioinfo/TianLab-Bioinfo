@@ -5,7 +5,7 @@ description: Professor
 img: assets/img/professor.jpeg
 importance: 1
 category: Professor
-related_publications: true
+related_publications: false
 ---
 
 <div class="row">

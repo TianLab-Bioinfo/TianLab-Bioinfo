@@ -5,7 +5,7 @@ description: Master Student
 img: assets/img/dyn.jpg
 importance: 3
 category: Students
-related_publications: true
+related_publications: false
 ---
 
 
