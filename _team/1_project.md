@@ -1,7 +1,8 @@
 ---
 layout: page
 title: Weidong Tian
-description: Professor
+description: Pr_project
+ofessor
 img: assets/img/professor.jpg
 importance: 1
 category: Professor
