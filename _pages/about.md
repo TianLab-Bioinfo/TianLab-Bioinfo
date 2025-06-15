@@ -1,8 +1,8 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
-subtitle: <a href='#'>the School of Life Sciences, Fudan University, Shanghai, China</a>
+subtitle:
 
 # profile:
 #   align: right

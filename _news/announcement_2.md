@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Qiming Liu have contributed an article in Science Advances. Congratulations!
+<b>Qiming Liu</b> have contributed an article in <b>Science Advances</b>. Congratulations!

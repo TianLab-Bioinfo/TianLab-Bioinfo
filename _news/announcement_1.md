@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-Baole Wen have contributed an article in Genome Medicine. Congratulations!
+<b>Baole Wen</b> have contributed an article in <b>Genome Medicine</b>. Congratulations!
