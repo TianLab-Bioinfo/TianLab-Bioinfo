@@ -28,13 +28,6 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/team/";
-          },
-        },{id: "nav-projects",
-          title: "Projects",
-          description: "",
-          section: "Navigation",
-          handler: () => {
             window.location.href = "/projects/";
           },
         },{id: "nav-repositories",
@@ -98,96 +91,51 @@ ninja.data = [{
           section: "News",},{id: "news-qiming-liu-have-contributed-an-article-in-science-advances-congratulations",
           title: 'Qiming Liu have contributed an article in Science Advances. Congratulations!',
           description: "",
-          section: "News",},{id: "projects-project-1",
-          title: 'project 1',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project/";
-            },},{id: "projects-project-2",
-          title: 'project 2',
-          description: "a project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/2_project/";
-            },},{id: "projects-project-3-with-very-long-name",
-          title: 'project 3 with very long name',
-          description: "a project that redirects to another website",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/3_project/";
-            },},{id: "projects-project-4",
-          title: 'project 4',
-          description: "another without an image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/4_project/";
-            },},{id: "projects-project-5",
-          title: 'project 5',
-          description: "a project with a background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/5_project/";
-            },},{id: "projects-project-6",
-          title: 'project 6',
-          description: "a project with no image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/6_project/";
-            },},{id: "projects-project-7",
-          title: 'project 7',
-          description: "with background image",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/7_project/";
-            },},{id: "projects-project-8",
-          title: 'project 8',
-          description: "an other project with a background image and giscus comments",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/8_project/";
-            },},{id: "projects-project-9",
-          title: 'project 9',
-          description: "another project with an image 🎉",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/9_project/";
-            },},{id: "team-weidong-tian",
-          title: 'Weidong Tian',
-          description: "Professor",
-          section: "Team",handler: () => {
-              window.location.href = "/team/1_team/";
-            },},{id: "team-baole-wen",
+          section: "News",},{id: "projects-baole-wen",
           title: 'Baole Wen',
           description: "Students",
-          section: "Team",handler: () => {
-              window.location.href = "/team/2_team/";
-            },},{id: "team-qiming-liu",
-          title: 'Qiming Liu',
-          description: "Students",
-          section: "Team",handler: () => {
-              window.location.href = "/team/3_team/";
-            },},{id: "team-tian-yao",
-          title: 'Tian Yao',
-          description: "Students",
-          section: "Team",handler: () => {
-              window.location.href = "/team/4_team/";
-            },},{id: "team-sheng-shi",
-          title: 'Sheng Shi',
-          description: "Students",
-          section: "Team",handler: () => {
-              window.location.href = "/team/5_team/";
-            },},{id: "team-minghan-li",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/baolewen/";
+            },},{id: "projects-minghan-li",
           title: 'Minghan Li',
           description: "Students",
-          section: "Team",handler: () => {
-              window.location.href = "/team/6_team/";
-            },},{id: "team-yizhou-tang",
-          title: 'Yizhou Tang',
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/minghanli/";
+            },},{id: "projects-qiming-liu",
+          title: 'Qiming Liu',
           description: "Students",
-          section: "Team",handler: () => {
-              window.location.href = "/team/7_team/";
-            },},{id: "team-yanan-dang",
-          title: 'Yanan Dang',
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/qimingliu/";
+            },},{id: "projects-sheng-shi",
+          title: 'Sheng Shi',
           description: "Students",
-          section: "Team",handler: () => {
-              window.location.href = "/team/8_team/";
-            },},{id: "team-xuan-xue",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/shengshi/";
+            },},{id: "projects-tian-yao",
+          title: 'Tian Yao',
+          description: "Students",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tianyao/";
+            },},{id: "projects-weidong-tian",
+          title: 'Weidong Tian',
+          description: "Professor",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/weidongtian/";
+            },},{id: "projects-xuan-xue",
           title: 'Xuan Xue',
           description: "Students",
-          section: "Team",handler: () => {
-              window.location.href = "/team/9_team/";
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/xuanxue/";
+            },},{id: "projects-yanan-dang",
+          title: 'Yanan Dang',
+          description: "Students",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/yanandang/";
+            },},{id: "projects-yizhou-tang",
+          title: 'Yizhou Tang',
+          description: "Students",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/yizhoutang/";
             },},{
         id: 'social-email',
         title: 'email',
