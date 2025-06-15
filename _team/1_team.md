@@ -1,15 +1,12 @@
 ---
 layout: page
 title: Weidong Tian
-description: Pr_project
-ofessor
+description: Professor
 img: assets/img/professor.jpg
 importance: 1
 category: Professor
 related_publications: true
 ---
-
-
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
