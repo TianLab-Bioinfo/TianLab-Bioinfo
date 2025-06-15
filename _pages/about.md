@@ -28,6 +28,7 @@ latest_posts:
 ---
 
 ![lab-photo](lab-photo.jpg)
+<a href="../assets/img/lab-photo.jpg" data-lightbox="roadtrip"><img src="../assets/img/lab-photo.jpg" /></a>
 
 We are a computational biology lab at [Fudan University](https://www.fudan.edu.cn/) proudly affiliated with the State Key Laboratory of Genetics and Development of Complex Phenotypes, the Department of Computational Biology, and [the School of Life Sciences](https://life.fudan.edu.cn/).
 
