@@ -1,14 +1,16 @@
 github_users:
-  - torvalds
-  - alshedivat
+  - TianLab-Bioinfo
 
 repo_description_lines_max: 2
 
 github_repos:
-  - alshedivat/al-folio
-  - jekyll/jekyll
-  - twbs/bootstrap
-  - jquery/jquery
-  - FortAwesome/Font-Awesome
-  - mathjax/MathJax
-  - jpswalsh/academicons
+  - TianLab-Bioinfo/PhenoDP
+  - TianLab-Bioinfo/scMAGIC
+  - TianLab-Bioinfo/AtacAnnoR
+  - TianLab-Bioinfo/ReCIDE
+  - TianLab-Bioinfo/scMIAC
+  - TianLab-Bioinfo/SPRINT
+  - TianLab-Bioinfo/scReGAT
+  - TianLab-Bioinfo/SpermGenePred
+  - TianLab-Bioinfo/PhenoBERT
+  - TianLab-Bioinfo/PhenoPro
