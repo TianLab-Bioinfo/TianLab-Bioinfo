@@ -1,4 +1,4 @@
 User-agent: *
 Disallow:
 
-Sitemap: https://tianlab-bioinfo.github.io/sitemap.xml
+Sitemap: https://TianLab-Bioinfo.github.io/sitemap.xml
