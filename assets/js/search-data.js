@@ -157,51 +157,51 @@ ninja.data = [{
           description: "another project with an image 🎉",
           section: "Projects",handler: () => {
               window.location.href = "/projects/9_project/";
-            },},{id: "team-",
-          title: '',
-          description: "",
+            },},{id: "team-weidong-tian",
+          title: 'Weidong Tian',
+          description: "Professor",
           section: "Team",handler: () => {
-              window.location.href = "/team/1_project/";
+              window.location.href = "/team/1_team/";
             },},{id: "team-baole-wen",
           title: 'Baole Wen',
           description: "Students",
           section: "Team",handler: () => {
-              window.location.href = "/team/2_project/";
+              window.location.href = "/team/2_team/";
             },},{id: "team-qiming-liu",
           title: 'Qiming Liu',
           description: "Students",
           section: "Team",handler: () => {
-              window.location.href = "/team/3_project/";
+              window.location.href = "/team/3_team/";
             },},{id: "team-tian-yao",
           title: 'Tian Yao',
           description: "Students",
           section: "Team",handler: () => {
-              window.location.href = "/team/4_project/";
+              window.location.href = "/team/4_team/";
             },},{id: "team-sheng-shi",
           title: 'Sheng Shi',
           description: "Students",
           section: "Team",handler: () => {
-              window.location.href = "/team/5_project/";
+              window.location.href = "/team/5_team/";
             },},{id: "team-minghan-li",
           title: 'Minghan Li',
           description: "Students",
           section: "Team",handler: () => {
-              window.location.href = "/team/6_project/";
+              window.location.href = "/team/6_team/";
             },},{id: "team-yizhou-tang",
           title: 'Yizhou Tang',
           description: "Students",
           section: "Team",handler: () => {
-              window.location.href = "/team/7_project/";
+              window.location.href = "/team/7_team/";
             },},{id: "team-yanan-dang",
           title: 'Yanan Dang',
           description: "Students",
           section: "Team",handler: () => {
-              window.location.href = "/team/8_project/";
+              window.location.href = "/team/8_team/";
             },},{id: "team-xuan-xue",
           title: 'Xuan Xue',
           description: "Students",
           section: "Team",handler: () => {
-              window.location.href = "/team/9_project/";
+              window.location.href = "/team/9_team/";
             },},{
         id: 'social-email',
         title: 'email',
