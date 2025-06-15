@@ -1,11 +1,11 @@
 ---
 layout: page
-title: Projects
+title: Team
 permalink: /projects/
 description: 
 nav: true
 nav_order: 4
-display_categories: [2025, 2024, 2023, 2022]
+display_categories: [Professor, Students, Alumni]
 horizontal: false
 ---
 

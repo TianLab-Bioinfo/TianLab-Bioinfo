@@ -11,7 +11,7 @@ contact_note: >
 description: > # the ">" symbol means to ignore newlines until "footer_text:"
   Tian Lab is a bioinformatics lab at Fudan University.
 footer_text: >
-  Fudan University. <br>
+  Fudan University. /n
   Powered by <a href="https://jekyllrb.com/" target="_blank">Jekyll</a> with <a href="https://github.com/alshedivat/al-folio">al-folio</a> theme.
   Hosted by <a href="https://pages.github.com/" target="_blank">GitHub Pages</a>.
 keywords: Fudan University,  School of Life Sciences, bioinformatics, deep learning # add your own keywords or leave empty
