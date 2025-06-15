@@ -5,7 +5,7 @@ permalink: /projects/
 description: 
 nav: true
 nav_order: 4
-display_categories: [work, fun]
+display_categories: [2025, 2024, 2023, 2022]
 horizontal: false
 ---
 
