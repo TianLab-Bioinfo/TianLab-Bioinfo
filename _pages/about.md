@@ -27,7 +27,8 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-[lab-photo](lab-photo.jpg)
+![lab-photo](lab-photo.jpg)
+
 We are a computational biology lab at [Fudan University](https://www.fudan.edu.cn/) proudly affiliated with the State Key Laboratory of Genetics and Development of Complex Phenotypes, the Department of Computational Biology, and [the School of Life Sciences](https://life.fudan.edu.cn/).
 
 Our core mission is to develop and apply cutting-edge bioinformatics methods to decipher the complexities of biology and human diseases. We are tackling challenging questions from multiple angles, with a primary focus on:
