@@ -42,7 +42,7 @@ ninja.data = [{
           description: "",
           section: "Navigation",
           handler: () => {
-            window.location.href = "/teaching/";
+            window.location.href = "/contactus/";
           },
         },{id: "post-phenodp-leveraging-deep-learning-for-phenotype-based-case-reporting-disease-ranking-and-symptom-recommendation",
         
