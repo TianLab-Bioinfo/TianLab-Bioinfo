@@ -1,6 +1,6 @@
 ---
 layout: page
-permalink: /teaching/
+permalink: /contactus/
 title: Contact Us
 description: 
 nav: true
