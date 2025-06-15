@@ -93,27 +93,27 @@ ninja.data = [{
           description: "",
           section: "News",},{id: "projects-baole-wen",
           title: 'Baole Wen',
-          description: "Students",
+          description: "Ph.D. Student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/baolewen/";
             },},{id: "projects-minghan-li",
           title: 'Minghan Li',
-          description: "Students",
+          description: "Ph.D. Student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/minghanli/";
             },},{id: "projects-qiming-liu",
           title: 'Qiming Liu',
-          description: "Students",
+          description: "Ph.D. Student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/qimingliu/";
             },},{id: "projects-sheng-shi",
           title: 'Sheng Shi',
-          description: "Students",
+          description: "Ph.D. Student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/shengshi/";
             },},{id: "projects-tian-yao",
           title: 'Tian Yao',
-          description: "Students",
+          description: "Ph.D. Student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/tianyao/";
             },},{id: "projects-weidong-tian",
@@ -123,17 +123,17 @@ ninja.data = [{
               window.location.href = "/projects/weidongtian/";
             },},{id: "projects-xuan-xue",
           title: 'Xuan Xue',
-          description: "Students",
+          description: "Master Student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/xuanxue/";
             },},{id: "projects-yanan-dang",
           title: 'Yanan Dang',
-          description: "Students",
+          description: "Master Student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/yanandang/";
             },},{id: "projects-yizhou-tang",
           title: 'Yizhou Tang',
-          description: "Students",
+          description: "Master Student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/yizhoutang/";
             },},{
