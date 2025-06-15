@@ -27,8 +27,12 @@ latest_posts:
   limit: 3 # leave blank to include all the blog posts
 ---
 
-![lab-photo](lab-photo.jpg)
-<a href="../assets/img/lab-photo.jpg" data-lightbox="roadtrip"><img src="../assets/img/lab-photo.jpg" /></a>
+
+<div class="row">
+    <div class="col-sm mt-3 mt-md-0">
+        {% include figure.liquid loading="eager" path="assets/img/lab-photo.jpg" title="lab-photo" class="img-fluid rounded z-depth-1" %}
+    </div>
+</div>
 
 We are a computational biology lab at [Fudan University](https://www.fudan.edu.cn/) proudly affiliated with the State Key Laboratory of Genetics and Development of Complex Phenotypes, the Department of Computational Biology, and [the School of Life Sciences](https://life.fudan.edu.cn/).
 
