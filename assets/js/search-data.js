@@ -167,11 +167,11 @@ ninja.data = [{
           description: "Master Degree",
           section: "Projects",handler: () => {
               window.location.href = "/projects/zengxiang/";
-            },},{id: "projects-yican-zhu",
-          title: 'Yican Zhu',
+            },},{id: "projects-yucan-zhu",
+          title: 'Yucan Zhu',
           description: "Master Student",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/zhuyican/";
+              window.location.href = "/projects/zhuyucan/";
             },},{
         id: 'social-email',
         title: 'email',
