@@ -10,7 +10,7 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <p>Email: lmh20@m.fudan.edu.cn</p>
+        <!-- <p>Email: lmh20@m.fudan.edu.cn</p> -->
         <p>Ph.D. Student</p>
     </div>
     <div class="col-sm-4 mt-3 mt-md-0">
