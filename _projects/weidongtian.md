@@ -2,7 +2,7 @@
 layout: page
 title: Weidong Tian
 description: Professor
-img: assets/img/professor.jpeg
+img: assets/img/professor_thumbnail.jpeg
 importance: 1
 category: Professor
 related_publications: false

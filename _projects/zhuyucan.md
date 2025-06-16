@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Yican Zhu
+title: Yucan Zhu
 description: Master Student
 img: assets/img/zyc.jpg
 importance: 3
