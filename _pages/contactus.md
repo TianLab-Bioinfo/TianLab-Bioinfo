@@ -55,7 +55,7 @@ nav_order: 5
 
 <h3>如何申请？</h3>
 
-<p>请向田卫东教授发送邮件（邮箱：<a href="mailto:weidong.tian@xxx.edu">weidong.tian@xxx.edu</a>），邮件最好包含：</p>
+<p>请向田卫东教授发送邮件（邮箱：<a href="mailto:weidong.tian@fudan.edu.cn">weidong.tian@fudan.edu.cn</a>），邮件最好包含：</p>
 
 <ol>
     <li><strong>简短自我介绍</strong>：说明你对本实验室的<strong>兴趣点</strong>（例如，想做深度学习与单细胞组学的结合），以及你希望为团队带来的<strong>贡献</strong>（如编程技能、生物背景、创新思路）；</li>
