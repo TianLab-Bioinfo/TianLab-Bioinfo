@@ -12,7 +12,6 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <h2>Yizhou Tang</h2>
         <p>Email: tyz20@m.fudan.edu.cn</p>
         <p>Master Student</p>
     </div>

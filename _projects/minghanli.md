@@ -10,7 +10,6 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <h2>Minghan Li</h2>
         <p>Email: lmh20@m.fudan.edu.cn</p>
         <p>Ph.D. Student</p>
     </div>

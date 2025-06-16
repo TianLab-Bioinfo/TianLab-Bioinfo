@@ -10,7 +10,6 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <h2>Weidong Tian</h2>
         <p>Email: weidong.tian@fudan.edu.cn</p>
         <p>Office Location: G609, the School of Life Sciences, Fudan University</p>
     </div>

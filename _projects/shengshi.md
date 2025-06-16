@@ -12,7 +12,6 @@ related_publications: false
 
 <div class="row">
     <div class="col-sm-8 mt-3 mt-md-0">
-        <h2>Sheng Shi</h2>
         <p>Email: ss20@m.fudan.edu.cn</p>
         <p>Ph.D. Student</p>
     </div>
