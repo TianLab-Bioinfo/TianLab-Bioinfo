@@ -77,9 +77,9 @@ ninja.data = [{
           section: "News",},{id: "news-qiming-liu-have-contributed-an-article-in-science-advances-congratulations",
           title: 'Qiming Liu have contributed an article in Science Advances. Congratulations!',
           description: "",
-          section: "News",},{id: "projects-baole-wen",
-          title: 'Baole Wen',
-          description: "Ph.D. Student",
+          section: "News",},{id: "projects-",
+          title: '',
+          description: "",
           section: "Projects",handler: () => {
               window.location.href = "/projects/baolewen/";
             },},{id: "projects-haosi-liu",
