@@ -91,12 +91,7 @@ ninja.data = [{
           section: "News",},{id: "news-congratulations-to-our-lab-s-graduates-lejin-tian-yuqing-su-qing-wen-xiang-zeng",
           title: 'Congratulations to Our Lab’s Graduates! Lejin Tian, Yuqing Su, Qing Wen, Xiang Zeng....',
           description: "",
-          section: "News",},{id: "projects-han-yu",
-          title: 'Han Yu',
-          description: "Ph.D. Student",
-          section: "Projects",handler: () => {
-              window.location.href = "/projects/baolewen%20copy/";
-            },},{id: "projects-baole-wen",
+          section: "News",},{id: "projects-baole-wen",
           title: 'Baole Wen',
           description: "Ph.D. Student",
           section: "Projects",handler: () => {
@@ -186,6 +181,11 @@ ninja.data = [{
           description: "Master Student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/yizhoutang/";
+            },},{id: "projects-han-yu",
+          title: 'Han Yu',
+          description: "Ph.D. Student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/yuhan/";
             },},{id: "projects-xiang-zeng",
           title: 'Xiang Zeng',
           description: "Master Degree",
