@@ -3,7 +3,7 @@ layout: page
 title: Baole Wen
 description: Ph.D. Student
 img: assets/img/wbl.jpg
-importance: 2
+importance: 1
 category: Students
 related_publications: false
 ---
