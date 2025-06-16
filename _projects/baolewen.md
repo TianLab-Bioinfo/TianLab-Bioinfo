@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Baole Wen
-description: Ph.D. Student
+description: <p>Ph.D. Student</p><p>Email: blwen24@m.fudan.edu.cn</p><p>Research Interests: Inference of gene regulation; Development of tools for rare diseases; Single-cell omics algorithms</p>
 img: assets/img/wbl.jpg
 importance: 2
 category: Students
