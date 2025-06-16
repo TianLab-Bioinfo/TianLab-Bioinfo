@@ -82,6 +82,26 @@ ninja.data = [{
           description: "Ph.D. Student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/baolewen/";
+            },},{id: "projects-haosi-liu",
+          title: 'Haosi Liu',
+          description: "Master Student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/liuhaosi/";
+            },},{id: "projects-liu-liu",
+          title: 'Liu Liu',
+          description: "Ph.D. Student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/liuliu/";
+            },},{id: "projects-yuefan-li",
+          title: 'Yuefan Li',
+          description: "Master Student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/liyuefan/";
+            },},{id: "projects-yi-long",
+          title: 'Yi Long',
+          description: "Intern",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/longyi/";
             },},{id: "projects-minghan-li",
           title: 'Minghan Li',
           description: "Ph.D. Student",
@@ -97,6 +117,16 @@ ninja.data = [{
           description: "Ph.D. Student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/shengshi/";
+            },},{id: "projects-yuqing-su",
+          title: 'Yuqing Su',
+          description: "Master Degree",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/suyuqing/";
+            },},{id: "projects-lejin-tian",
+          title: 'Lejin Tian',
+          description: "Ph.D.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/tianlejin/";
             },},{id: "projects-tian-yao",
           title: 'Tian Yao',
           description: "Ph.D. Student",
@@ -107,6 +137,16 @@ ninja.data = [{
           description: "Professor",
           section: "Projects",handler: () => {
               window.location.href = "/projects/weidongtian/";
+            },},{id: "projects-le-wei",
+          title: 'Le Wei',
+          description: "Master Student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/weile/";
+            },},{id: "projects-qing-wen",
+          title: 'Qing Wen',
+          description: "Master Degree",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/wenqing/";
             },},{id: "projects-xuan-xue",
           title: 'Xuan Xue',
           description: "Master Student",
@@ -122,6 +162,16 @@ ninja.data = [{
           description: "Master Student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/yizhoutang/";
+            },},{id: "projects-xiang-zeng",
+          title: 'Xiang Zeng',
+          description: "Master Degree",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/zengxiang/";
+            },},{id: "projects-yican-zhu",
+          title: 'Yican Zhu',
+          description: "Master Student",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/zhuyican/";
             },},{
         id: 'social-email',
         title: 'email',
