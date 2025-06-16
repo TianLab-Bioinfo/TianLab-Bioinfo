@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Baole Wen
-description: Ph.D. Student /n Research Interests: Inference of gene regulation; Development of tools for rare diseases; Single-cell omics algorithms
+description: Ph.D. Student
 img: assets/img/wbl.jpg
 importance: 2
 category: Students
