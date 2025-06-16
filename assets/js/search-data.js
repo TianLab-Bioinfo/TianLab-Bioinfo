@@ -44,7 +44,18 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/contactus/";
           },
-        },{id: "post-phenodp-leveraging-deep-learning-for-phenotype-based-case-reporting-disease-ranking-and-symptom-recommendation",
+        },{id: "post-congratulations-to-our-lab-39-s-graduates-lejin-tian-yuqing-su-qing-wen-xiang-zeng",
+        
+          title: "Congratulations to Our Lab&#39;s Graduates! Lejin Tian, Yuqing Su, Qing Wen, Xiang Zeng....",
+        
+        description: "",
+        section: "Posts",
+        handler: () => {
+          
+            window.location.href = "/blog/2025/graduated/";
+          
+        },
+      },{id: "post-phenodp-leveraging-deep-learning-for-phenotype-based-case-reporting-disease-ranking-and-symptom-recommendation",
         
           title: "PhenoDP: Leveraging Deep Learning for Phenotype-Based Case Reporting, Disease Ranking, and Symptom Recommendation...",
         
@@ -80,9 +91,9 @@ ninja.data = [{
           section: "News",},{id: "news-congratulations-to-our-lab-s-graduates-lejin-tian-yuqing-su-qing-wen-xiang-zeng",
           title: 'Congratulations to Our Lab’s Graduates! Lejin Tian, Yuqing Su, Qing Wen, Xiang Zeng....',
           description: "",
-          section: "News",},{id: "projects-",
-          title: '',
-          description: "",
+          section: "News",},{id: "projects-baole-wen",
+          title: 'Baole Wen',
+          description: "Ph.D. Student",
           section: "Projects",handler: () => {
               window.location.href = "/projects/baolewen/";
             },},{id: "projects-haosi-liu",
