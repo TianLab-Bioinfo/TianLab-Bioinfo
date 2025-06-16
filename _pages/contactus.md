@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /contactus/
-title: Contact Us
+title: Recruiting
 description: 
 nav: true
 nav_order: 5
@@ -17,7 +17,7 @@ nav_order: 5
 
 <ol>
   <li><strong>研究方向由你定义，探索兴趣无边界</strong>
-    <p>没有「任务指派」的束缚——你将与PI（田卫东教授）深度合作，共同选择<strong>符合你兴趣的研究课题；</strong><br>
+    <p>没有「任务指派」的束缚——你将与PI深度合作，共同选择<strong>符合你兴趣的研究课题；</strong><br>
     无论是深耕单一领域，还是跨学科探索，我们都支持你按照自己的节奏，走出独特的科研路径。</p>
   </li>
   <li><strong>灵活的工作模式，专注于真正的产出</strong>
@@ -37,8 +37,8 @@ nav_order: 5
   <li><strong>PI全程深度参与，无「小老板」代管理</strong>
     <p><strong>PI</strong>会<strong>直接指导每一位学生</strong>：从课题选题的最初思路，到论文投稿的细节打磨，再到职业规划的方向选择，你都能得到PI的亲自反馈。我们没有「层层传达」，只有「一对一」的针对性支持，确保你的研究不偏离核心，成长路径更清晰。</p>
   </li>
-  <li><strong>Support for Career Growth</strong>
-    <p>实习机会：我们允许学生在PI批准下，在生物科技公司、人工智能初创公司或医院研究实验室实习，以获得行业经验并拓展人脉。</p>
+  <li><strong>支持实习</strong>
+    <p>我们允许学生在PI批准下，进行实习，以获得行业经验并拓展人脉。</p>
   </li>
 </ol>
 
