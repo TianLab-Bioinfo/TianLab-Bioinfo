@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-<b>Congratulations to Our Lab's Graduates! <b>Lejin Tian, Yuqing Su, Qing Wen, Xiang Zeng.</b>
+Congratulations to Our Lab's Graduates! <b>Lejin Tian, Yuqing Su, Qing Wen, Xiang Zeng.</b>
